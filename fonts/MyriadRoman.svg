@@ -7,9 +7,9 @@ Created by FontForge 20160407 at Sun Nov 20 14:50:53 2016
 Copyright 1992, 1994, 1997, 2000, 2004 Adobe Systems Incorporated. All rights reserved. Protected by U.S. Patents D454,582. Myriad is either a registered trademark or a trademark of Adobe Systems Incorporated in the United States and/or other countries.
 </metadata>
 <defs>
-<font id="MyriadPro-Regular" horiz-adv-x="300" >
+<font id="MyriadRoman" horiz-adv-x="300" >
   <font-face 
-    font-family="Myriad Pro"
+    font-family="MyriadRoman"
     font-weight="400"
     font-stretch="normal"
     units-per-em="1000"

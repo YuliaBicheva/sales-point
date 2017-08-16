@@ -20,7 +20,8 @@
 		onClick : function(){			
 			var base = this;
 						
-			base.$elem.on("click",function(){
+			base.$elem.on("click",function(e){
+				e.preventDefault();
 			    var $this = $(this);
 			    base.goTo($this);
 		    });
